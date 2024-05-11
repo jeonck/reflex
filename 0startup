@@ -1,0 +1,8 @@
+
+mkdir reflex_app && cd reflex_app
+python -m venv venv
+source venv/bin/activate
+pip install reflex
+reflex init --name reflex_app
+reflex run
+

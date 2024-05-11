@@ -1,6 +1,6 @@
 """Welcome to Reflex! This file outlines the steps to create a basic app."""
 
-from rxconfig import config
+from chatrx.rxconfig import config
 
 import reflex as rx
 
